@@ -1,5 +1,5 @@
 # here is a static map.
-<iframe src="BK_RESIDENTSy.jpeg" width = "500" height = "500"></iframe>
+"BK_RESIDENTSy.jpeg"
 
 
 # testing testing 
