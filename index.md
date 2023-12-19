@@ -14,7 +14,7 @@ Some intersections are more dangerous than others.
 
 Explore Brooklyn's pedestrian safety problem further in this interactive map.
 
-Red circles represent Brooklyn's most dangerous intersections (those intersections in the borough's 99th percentile of number of number of pedestrian incidents.)
+Red circles represent Brooklyn's most dangerous intersections (those intersections in the borough's 99th percentile of pedestrian incidents).
 
 Black dots represent pedestrian fatalities.
 
