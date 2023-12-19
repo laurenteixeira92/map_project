@@ -1,17 +1,18 @@
-# Brooklyn is a borough of pedestrians.
-Especially in the densest parts close to Manhattan.
+# Exploring Brooklyn's Pedestrian Safety Problem
+
+Brooklyn is a borough of pedestrians. Especially in the densest parts close to Manhattan.
 
 ![image desc](BK_RESIDENTSy.jpeg)
 
-# However, pedestrian accidents are common. And most collisions occur at intersections. 
+However, pedestrian accidents are common. And most collisions occur at intersections. 
 
 (collisions_intersections.png)
 
-# Some intersections are more dangerous than others.
+Some intersections are more dangerous than others.
 
 (just_intersections.png)
 
-# Explore Brooklyn's pedestrian safety problem further in this interactive map.
+Explore Brooklyn's pedestrian safety problem further in this interactive map.
 
 Red circles represent Brooklyn's most dangerous intersections (those intersections in the borough's 99th percentile of number of number of pedestrian incidents.)
 
