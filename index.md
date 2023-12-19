@@ -1,4 +1,5 @@
 # Exploring Brooklyn's Pedestrian Safety Problem
+# Lauren Teixeira /// Command Line GIS Fall 2023
 
 Brooklyn is a borough of pedestrians. Especially in the densest parts close to Manhattan.
 
