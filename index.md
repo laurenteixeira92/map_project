@@ -1,6 +1,6 @@
 # here is a static map.
 
-"BK_RESIDENTSy.jpeg"
+BK_RESIDENTSy.jpeg
 
 
 # testing testing 
